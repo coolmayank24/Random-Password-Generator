@@ -46,4 +46,4 @@ Contributions are always welcome! If you have suggestions for improvements or ne
 
 ## 📞 Contact
 
-For any questions or feedback, you can reach out to **your-email@example.com** or open an issue on GitHub.your-email@example.com** or open an issue on GitHub.
+For any questions or feedback, you can reach out to **sonimayank7987@gmail.com** 
